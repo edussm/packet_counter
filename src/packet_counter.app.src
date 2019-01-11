@@ -1,0 +1,11 @@
+{application, packet_counter, [
+    {description, "Erlang Package counter"},
+    {vsn, git},
+    {registered, []},
+    {applications, [kernel,
+                    stdlib]},
+    {env, []},
+    {maintainers, ["Eduardo Santos"]},
+    {licenses, ["Apache License 2.1"]},
+    {links, [{"Github", "https://github.com/edussm/packet_counter"}]}
+]}.

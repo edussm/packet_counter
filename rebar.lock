@@ -1,0 +1,4 @@
+[{<<"udp_channel">>,
+  {git,"https://github.com/edussm/udp_channel.git",
+       {ref,"61c191b9dc893d02ac73432291542a80a693742d"}},
+  0}].
